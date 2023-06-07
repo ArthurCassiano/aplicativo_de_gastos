@@ -3,6 +3,8 @@ import os
 from deta import Deta
 from dotenv import load_dotenv
 
+DETA_KEY="e0caz6qkg6r_KN9huGedpeUsmAsb6LiNYXPTxt2RjhqU"
+
 load_dotenv(".env")
 DETA_KEY = os.getenv("DETA_KEY")
 
