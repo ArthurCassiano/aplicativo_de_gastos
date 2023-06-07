@@ -1,0 +1,14 @@
+[theme]
+# cor primária.
+primaryColor = "#d33682"
+
+# Background.
+backgroundColor = "#002b36"
+
+# Background color do sidebar e widgets.
+secondaryBackgroundColor = "#586e75"
+
+# cor do texto.
+textColor = "#fafafa"
+
+font = "sans serif"
